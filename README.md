@@ -1,8 +1,9 @@
 # Naziv aplikacije: spring5webapp
 
-Radi se ojednostavonj app koja učitava unesene podatake u talicu.
+Radi se o jednostavonj aplikaciji koja učitava unesene podatake u talicu.
 
-Marko Tomljanović <markot@windowslive.com>  
+Marko Tomljanović
+<markot@windowslive.com>  
 
 ### purpose
 
